@@ -1,3 +1,0 @@
-/kill
-/time set minecraft:day
-/kill

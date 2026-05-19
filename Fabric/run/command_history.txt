@@ -1,7 +1,0 @@
-/kill
-/gamemode survival
-/gamemode
-/gamemode creative
-/gamemode survival
-/recipe give @s backpack-pro:backpack_diamond
-/gamemode survival
