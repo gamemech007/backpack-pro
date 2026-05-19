@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "backpack-pro:item/backpack_iron"
+  }
+}

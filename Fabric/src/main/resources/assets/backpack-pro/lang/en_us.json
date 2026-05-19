@@ -1,0 +1,12 @@
+{
+  "item.backpack-pro.backpack_iron":      "Iron Backpack",
+  "item.backpack-pro.backpack_diamond":   "Diamond Backpack",
+  "item.backpack-pro.backpack_netherite": "Netherite Backpack",
+
+  "container.backpack-pro.backpack_iron":      "Backpack",
+  "container.backpack-pro.backpack_diamond":   "Backpack II",
+  "container.backpack-pro.backpack_netherite": "Backpack III",
+
+    "key.backpack_pro.open_backpack": "Open Backpack",
+  "key.category.backpack_pro.general": "Backpack Pro"
+}
